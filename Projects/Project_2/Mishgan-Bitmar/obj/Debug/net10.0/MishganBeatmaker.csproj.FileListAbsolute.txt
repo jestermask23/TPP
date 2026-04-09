@@ -1,0 +1,15 @@
+C:\Users\qr-ru\Desktop\TPP\Projects\Project_2\Mishgan-Bitmar\bin\Debug\net10.0\MishganBeatmaker.exe
+C:\Users\qr-ru\Desktop\TPP\Projects\Project_2\Mishgan-Bitmar\bin\Debug\net10.0\MishganBeatmaker.deps.json
+C:\Users\qr-ru\Desktop\TPP\Projects\Project_2\Mishgan-Bitmar\bin\Debug\net10.0\MishganBeatmaker.runtimeconfig.json
+C:\Users\qr-ru\Desktop\TPP\Projects\Project_2\Mishgan-Bitmar\bin\Debug\net10.0\MishganBeatmaker.dll
+C:\Users\qr-ru\Desktop\TPP\Projects\Project_2\Mishgan-Bitmar\bin\Debug\net10.0\MishganBeatmaker.pdb
+C:\Users\qr-ru\Desktop\TPP\Projects\Project_2\Mishgan-Bitmar\obj\Debug\net10.0\MishganBeatmaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qr-ru\Desktop\TPP\Projects\Project_2\Mishgan-Bitmar\obj\Debug\net10.0\MishganBeatmaker.AssemblyInfoInputs.cache
+C:\Users\qr-ru\Desktop\TPP\Projects\Project_2\Mishgan-Bitmar\obj\Debug\net10.0\MishganBeatmaker.AssemblyInfo.cs
+C:\Users\qr-ru\Desktop\TPP\Projects\Project_2\Mishgan-Bitmar\obj\Debug\net10.0\MishganBeatmaker.csproj.CoreCompileInputs.cache
+C:\Users\qr-ru\Desktop\TPP\Projects\Project_2\Mishgan-Bitmar\obj\Debug\net10.0\MishganBeatmaker.sourcelink.json
+C:\Users\qr-ru\Desktop\TPP\Projects\Project_2\Mishgan-Bitmar\obj\Debug\net10.0\MishganBeatmaker.dll
+C:\Users\qr-ru\Desktop\TPP\Projects\Project_2\Mishgan-Bitmar\obj\Debug\net10.0\refint\MishganBeatmaker.dll
+C:\Users\qr-ru\Desktop\TPP\Projects\Project_2\Mishgan-Bitmar\obj\Debug\net10.0\MishganBeatmaker.pdb
+C:\Users\qr-ru\Desktop\TPP\Projects\Project_2\Mishgan-Bitmar\obj\Debug\net10.0\MishganBeatmaker.genruntimeconfig.cache
+C:\Users\qr-ru\Desktop\TPP\Projects\Project_2\Mishgan-Bitmar\obj\Debug\net10.0\ref\MishganBeatmaker.dll
