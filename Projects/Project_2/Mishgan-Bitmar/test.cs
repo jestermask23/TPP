@@ -403,6 +403,7 @@ namespace MishganBeatmaker
             block.Exits["home"] = home;
             block.Exits["friend"] = friendHome;
             friendHome.Exits["block"] = block;
+            studio.Exits["block"] = block;
 
             // Объекты
             block.Interactables.Add(new Chest("pacany", new AddItemEffect("Пачка денег")));

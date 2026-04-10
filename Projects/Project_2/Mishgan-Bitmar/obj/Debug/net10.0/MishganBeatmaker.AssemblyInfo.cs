@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MishganBeatmaker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58867eab7e2abb75812e840df45d4ff58172813e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49aad83894d70668b3cc555ba5803dde7d573713")]
 [assembly: System.Reflection.AssemblyProductAttribute("MishganBeatmaker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MishganBeatmaker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
